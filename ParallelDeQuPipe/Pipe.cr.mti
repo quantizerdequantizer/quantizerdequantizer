@@ -1,0 +1,29 @@
+C:/CloudDrives/QuantizerDequantizerGit/IndependentModules/ParallelDeQuPipe/leadingOneDetection.sv {1 {vlog -work work -sv -stats=none C:/CloudDrives/QuantizerDequantizerGit/IndependentModules/ParallelDeQuPipe/leadingOneDetection.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module leadingOneDetection
+
+Top level modules:
+	leadingOneDetection
+
+} {} {}} C:/CloudDrives/QuantizerDequantizerGit/IndependentModules/ParallelDeQuPipe/ParallelDeQ.sv {1 {vlog -work work -sv -stats=none C:/CloudDrives/QuantizerDequantizerGit/IndependentModules/ParallelDeQuPipe/ParallelDeQ.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ParallelDeQ
+
+Top level modules:
+	ParallelDeQ
+
+} {} {}} C:/CloudDrives/QuantizerDequantizerGit/IndependentModules/ParallelDeQuPipe/AsynchBarrelShifter.sv {1 {vlog -work work -sv -stats=none C:/CloudDrives/QuantizerDequantizerGit/IndependentModules/ParallelDeQuPipe/AsynchBarrelShifter.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module AsynchBarrelShifter
+
+Top level modules:
+	AsynchBarrelShifter
+
+} {} {}} C:/CloudDrives/QuantizerDequantizerGit/IndependentModules/ParallelDeQuPipe/MantissaExponentFormer.sv {1 {vlog -work work -sv -stats=none C:/CloudDrives/QuantizerDequantizerGit/IndependentModules/ParallelDeQuPipe/MantissaExponentFormer.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module MantissaExponentFormer
+
+Top level modules:
+	MantissaExponentFormer
+
+} {} {}}

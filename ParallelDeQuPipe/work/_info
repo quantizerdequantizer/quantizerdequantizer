@@ -1,0 +1,235 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/CloudDrives/ml2auGoogleDrive/QuantDequantizer
+vAdder
+Z0 DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
+Z1 !s110 1524258612
+!i10b 1
+!s100 eOLZEA7=^F2mY51Az[4=V1
+I8fkjZKGXU3jThZW;ZfGFP3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+!s105 Adder_sv_unit
+S1
+Z3 dC:/CloudDrives/QuantizerDequantizerGit/IndependentModules/ParallelDeQuPipe
+w1524188356
+8C:/CloudDrives/QuantizerDequantizerGit/IndependentModules/ParallelDeQuPipe/Adder.sv
+FC:/CloudDrives/QuantizerDequantizerGit/IndependentModules/ParallelDeQuPipe/Adder.sv
+L0 1
+Z4 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z5 !s108 1524258612.000000
+!s107 C:/CloudDrives/QuantizerDequantizerGit/IndependentModules/ParallelDeQuPipe/Adder.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/CloudDrives/QuantizerDequantizerGit/IndependentModules/ParallelDeQuPipe/Adder.sv|
+!s101 -O0
+!i113 1
+Z6 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+n@adder
+vAsynchBarrelShifter
+R0
+R1
+!i10b 1
+!s100 [R_BbJK3T_gC]<KJR=W^M2
+I9=LHR1T8L3^g>gR?C9cfE2
+R2
+!s105 AsynchBarrelShifter_sv_unit
+S1
+R3
+w1524185522
+8C:/CloudDrives/QuantizerDequantizerGit/IndependentModules/ParallelDeQuPipe/AsynchBarrelShifter.sv
+FC:/CloudDrives/QuantizerDequantizerGit/IndependentModules/ParallelDeQuPipe/AsynchBarrelShifter.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/CloudDrives/QuantizerDequantizerGit/IndependentModules/ParallelDeQuPipe/AsynchBarrelShifter.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/CloudDrives/QuantizerDequantizerGit/IndependentModules/ParallelDeQuPipe/AsynchBarrelShifter.sv|
+!s101 -O0
+!i113 1
+R6
+n@asynch@barrel@shifter
+vIn16Adder
+R0
+Z7 !s110 1524184906
+!i10b 1
+!s100 G[zmJ;]`8NbY@VlZliFzG1
+I>H`zh9@0ohia5LgB9UIZz2
+R2
+!s105 In16Adder_sv_unit
+S1
+R3
+Z8 w1523281114
+8C:/CloudDrives/QuantizerDequantizerGit/IndependentModules/ParallelDeQuPipe/In16Adder.sv
+FC:/CloudDrives/QuantizerDequantizerGit/IndependentModules/ParallelDeQuPipe/In16Adder.sv
+L0 1
+R4
+r1
+!s85 0
+31
+Z9 !s108 1524184906.000000
+!s107 C:/CloudDrives/QuantizerDequantizerGit/IndependentModules/ParallelDeQuPipe/In16Adder.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/CloudDrives/QuantizerDequantizerGit/IndependentModules/ParallelDeQuPipe/In16Adder.sv|
+!s101 -O0
+!i113 1
+R6
+n@in16@adder
+vIn16AdderChain
+R0
+R7
+!i10b 1
+!s100 hI]@kTm0E0Z]=lMDj3nS11
+I?73I2WSCL56GTliZl^AU@1
+R2
+!s105 In16AdderChain_sv_unit
+S1
+R3
+R8
+8C:/CloudDrives/QuantizerDequantizerGit/IndependentModules/ParallelDeQuPipe/In16AdderChain.sv
+FC:/CloudDrives/QuantizerDequantizerGit/IndependentModules/ParallelDeQuPipe/In16AdderChain.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/CloudDrives/QuantizerDequantizerGit/IndependentModules/ParallelDeQuPipe/In16AdderChain.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/CloudDrives/QuantizerDequantizerGit/IndependentModules/ParallelDeQuPipe/In16AdderChain.sv|
+!s101 -O0
+!i113 1
+R6
+n@in16@adder@chain
+vleadingOneDetection
+R0
+R1
+!i10b 1
+!s100 6Kci_K@`hAZ>ZXB1SXGDm0
+IZ<8O53H48`9U]0:XBBg?[0
+R2
+!s105 leadingOneDetection_sv_unit
+S1
+R3
+w1524184903
+8C:/CloudDrives/QuantizerDequantizerGit/IndependentModules/ParallelDeQuPipe/leadingOneDetection.sv
+FC:/CloudDrives/QuantizerDequantizerGit/IndependentModules/ParallelDeQuPipe/leadingOneDetection.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/CloudDrives/QuantizerDequantizerGit/IndependentModules/ParallelDeQuPipe/leadingOneDetection.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/CloudDrives/QuantizerDequantizerGit/IndependentModules/ParallelDeQuPipe/leadingOneDetection.sv|
+!s101 -O0
+!i113 1
+R6
+nleading@one@detection
+vMantissaExponentFormer
+R0
+R1
+!i10b 1
+!s100 N^FF]5nn2zO:V>gT7iL4d2
+IRgJOg9mBK_1CGWV0E742X3
+R2
+!s105 MantissaExponentFormer_sv_unit
+S1
+R3
+w1524186325
+8C:/CloudDrives/QuantizerDequantizerGit/IndependentModules/ParallelDeQuPipe/MantissaExponentFormer.sv
+FC:/CloudDrives/QuantizerDequantizerGit/IndependentModules/ParallelDeQuPipe/MantissaExponentFormer.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/CloudDrives/QuantizerDequantizerGit/IndependentModules/ParallelDeQuPipe/MantissaExponentFormer.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/CloudDrives/QuantizerDequantizerGit/IndependentModules/ParallelDeQuPipe/MantissaExponentFormer.sv|
+!s101 -O0
+!i113 1
+R6
+n@mantissa@exponent@former
+vOneWayDeQuantizer
+R0
+R1
+!i10b 1
+!s100 WHj?8j0[3gjYhRRZHL9ZX1
+IJ>5YR7HaOc1N=0D_5^]PX1
+R2
+!s105 OneWayDeQuantizer_sv_unit
+S1
+R3
+w1524186354
+8C:/CloudDrives/QuantizerDequantizerGit/IndependentModules/ParallelDeQuPipe/OneWayDeQuantizer.sv
+FC:/CloudDrives/QuantizerDequantizerGit/IndependentModules/ParallelDeQuPipe/OneWayDeQuantizer.sv
+L0 3
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/CloudDrives/QuantizerDequantizerGit/IndependentModules/ParallelDeQuPipe/OneWayDeQuantizer.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/CloudDrives/QuantizerDequantizerGit/IndependentModules/ParallelDeQuPipe/OneWayDeQuantizer.sv|
+!s101 -O0
+!i113 1
+R6
+n@one@way@de@quantizer
+vParallelDeQ
+R0
+R1
+!i10b 1
+!s100 S4@:4eamgT`[TPb8_1mU;0
+IV6H:oP7Ygi2QIhdVRMc?I0
+R2
+!s105 ParallelDeQ_sv_unit
+S1
+R3
+w1524188557
+8C:/CloudDrives/QuantizerDequantizerGit/IndependentModules/ParallelDeQuPipe/ParallelDeQ.sv
+FC:/CloudDrives/QuantizerDequantizerGit/IndependentModules/ParallelDeQuPipe/ParallelDeQ.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/CloudDrives/QuantizerDequantizerGit/IndependentModules/ParallelDeQuPipe/ParallelDeQ.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/CloudDrives/QuantizerDequantizerGit/IndependentModules/ParallelDeQuPipe/ParallelDeQ.sv|
+!s101 -O0
+!i113 1
+R6
+n@parallel@de@q
+vParallelDeQuantizer
+R0
+!s110 1524188485
+!i10b 1
+!s100 ikS01@>:XLTW`hWV<>9PD3
+Id;VkG@OZjNAmmf`<Rd3IK0
+R2
+!s105 ParallelDeQuantizer_sv_unit
+S1
+R3
+w1523281117
+8C:/CloudDrives/QuantizerDequantizerGit/IndependentModules/ParallelDeQuPipe/ParallelDeQuantizer.sv
+FC:/CloudDrives/QuantizerDequantizerGit/IndependentModules/ParallelDeQuPipe/ParallelDeQuantizer.sv
+L0 3
+R4
+r1
+!s85 0
+31
+!s108 1524188485.000000
+!s107 C:/CloudDrives/QuantizerDequantizerGit/IndependentModules/ParallelDeQuPipe/ParallelDeQuantizer.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/CloudDrives/QuantizerDequantizerGit/IndependentModules/ParallelDeQuPipe/ParallelDeQuantizer.sv|
+!s101 -O0
+!i113 1
+R6
+n@parallel@de@quantizer

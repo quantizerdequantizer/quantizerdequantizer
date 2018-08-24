@@ -1,0 +1,22 @@
+module shortLeadingOneDetection(
+   input  logic [9:0] inputWord,
+   output logic [3:0] locationOfOne
+);
+
+always @(inputWord) begin
+  casez (inputWord)
+    {{1'b1},{8{1'b?}}} : locationOfOne <= 9;
+    {{2{1'b0}},{{1'b1},{7{1'b?}}}} : locationOfOne <= 8;
+    {{3{1'b0}},{{1'b1},{6{1'b?}}}} : locationOfOne <= 7;
+    {{4{1'b0}},{{1'b1},{5{1'b?}}}} : locationOfOne <= 6;
+    {{5{1'b0}},{{1'b1},{4{1'b?}}}} : locationOfOne <= 5;
+    {{6{1'b0}},{{1'b1},{3{1'b?}}}} : locationOfOne <= 4;
+    {{7{1'b0}},{{1'b1},{2{1'b?}}}} : locationOfOne <= 3;
+    {{8{1'b0}},{{1'b1},{1{1'b?}}}} : locationOfOne <= 2;
+    {{9{1'b0}},{{1'b1}}} : locationOfOne <= 1;
+    10'b0 : locationOfOne <= 0;
+    default: locationOfOne <= 0;
+  endcase
+end
+endmodule
+
