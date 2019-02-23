@@ -5,7 +5,21 @@ Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 
 Top level modules:
 	shortLeadingOneDetection
 
+} {} {}} C:/CloudDrives/QuantizerDequantizerGit/IndependentModules/OffsetDivider/DividerSequentialMoreOptimized.v {1 {vlog -work work -stats=none C:/CloudDrives/QuantizerDequantizerGit/IndependentModules/OffsetDivider/DividerSequentialMoreOptimized.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module dividerRemainder
+
+Top level modules:
+	dividerRemainder
+
 } {} {}} C:/CloudDrives/QuantizerDequantizerGit/IndependentModules/OffsetDivider/divider.v {1 {vlog -work work -stats=none C:/CloudDrives/QuantizerDequantizerGit/IndependentModules/OffsetDivider/divider.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module dividerRemainder
+
+Top level modules:
+	dividerRemainder
+
+} {} {}} C:/CloudDrives/QuantizerDequantizerGit/IndependentModules/OffsetDivider/DividerSequentialOptimized.v {1 {vlog -work work -stats=none C:/CloudDrives/QuantizerDequantizerGit/IndependentModules/OffsetDivider/DividerSequentialOptimized.v
 Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
 -- Compiling module dividerRemainder
 
